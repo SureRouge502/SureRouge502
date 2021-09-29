@@ -8,7 +8,7 @@ email: Iyengara41@gmail.com</br>
 ph: not yet baby haha</br>
 Anyways, As you are here, heres what you can expect from my git page</br>
 ---> Codes that automate tasks.</br>
----> Codes that can make programs that are missing from an OS, Ex :Yourphone app from windows is missing in linux</br>
+---> Codes that can make programs that are missing from an OS,  Ex: Yourphone app from windows is missing in linux</br>
 ---> Programs that are asked from me</br>
 ---> Projects that i've taken a liking to!</br>
 </br>
