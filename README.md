@@ -3,9 +3,7 @@
 - 🌱 I’m currently learning Bash , C++ ,Python just cause i can haha
 - 💞️ I’m looking to collaborate on issues like automation of scripts and programming
 - 📫 How to reach me ..?
-Quiet easy, I'm mostly available on Instagram @Crazzer_chaku</br>
-email: Iyengara41@gmail.com</br>
-ph: not yet baby haha</br>
+Email: chakravarthy5022@gmail.com</br>
 Anyways, As you are here, heres what you can expect from my git page</br>
 ---> Codes that automate tasks.</br>
 ---> Codes that can make programs that are missing from an OS,  Ex: Yourphone app from windows is missing in linux</br>
