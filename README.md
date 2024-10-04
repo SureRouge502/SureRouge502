@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SureRouge502
 - 👀 I’m interested in Gaming mostly, A Coding Enthusiast, Photography, Movies and bla bla bla...
-- 🌱 I’m currently learning Bash , C++ ,Python just cause i can haha
+- 🌱 I’m currently learning Bash , C++ ,Python
 - 💞️ I’m looking to collaborate on issues like automation of scripts and programming
 - 📫 How to reach me ..?
 Email: chakravarthy5022@gmail.com</br>
